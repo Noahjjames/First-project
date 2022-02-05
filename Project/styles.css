@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+    background-image: url(Skateboard.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+
+nav {
+    background: violet;
+    -webkit-columns: 100px 4;
+    -moz-columns: 100px 4;
+    columns: 100px 4;
+    -webkit-column-gap: 0;
+    -moz-column-gap: 0;
+    column-gap: 0;
+    -webkit-column-rule: 1px solid #1a242f;
+    -moz-column-rule: 1px solid #1a242f;
+    column-rule: 1px solid #1a242f;
+}
+
+nav a {
+    text-decoration: wavy;
+    color: black;
+    display: block;
+    padding: 1em;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+nav a:hover {
+    background: rgb(158, 82, 230);
+}
