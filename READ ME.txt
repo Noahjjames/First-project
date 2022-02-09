@@ -1,0 +1,10 @@
+Hello,
+
+	This project is my very first ever html/css attempt. My friend Dayne has been teaching me both html/css
+on his freetime, roughly once a week. This project was started 2-4-22 and will last until I feel that it is
+completely how I imagined it. This project is aiming to create a website for my dad's skateshop that he owned in
+2005. Most of the inspriation for this came directly from my dad, other local skateshops, and some big name sites. 
+
+Hope you like it!
+
+-Noah

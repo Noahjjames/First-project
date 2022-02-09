@@ -1,13 +1,20 @@
 body {
     background-color: aqua;
+    color: black;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.background-image {
     background-image: url(Skateboard.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: black;
 }
 
 nav {
     background: violet;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     -webkit-columns: 100px 4;
     -moz-columns: 100px 4;
     columns: 100px 4;
@@ -29,4 +36,20 @@ nav a {
 }
 nav a:hover {
     background: rgb(158, 82, 230);
+}
+
+.logo {
+    display: block;
+    flex-wrap: wrap;
+    padding: 1em;
+}
+
+p {
+    background-image: url(Laser.gif);
+    background-repeat: no-repeat;
+    background-size: 500px 750px;
+    margin: auto;
+    width: 85%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
 }
